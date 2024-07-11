@@ -1,5 +1,5 @@
 # :apple: AntInMaze :ant:
-:video_game: Unity mini-game
+:video_game: Unity mini-game (WebGL)
 ## Screenshots :camera_flash:
 ![изображение](https://github.com/FilippovVic/AntInMaze/assets/113792486/4718d24d-043b-42db-8c65-8ddda6e4e919)
 ![изображение](https://github.com/FilippovVic/AntInMaze/assets/113792486/32c99dd8-d881-4b23-9021-15d4bfa0dbde)
